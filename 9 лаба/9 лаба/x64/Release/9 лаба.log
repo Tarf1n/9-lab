@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\timam\source\repos\9 лаба\9 лаба\Source.cpp(13,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\timam\source\repos\9 лаба\9 лаба\Source.cpp(14,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\timam\source\repos\9 лаба\9 лаба\Source.cpp(44,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода
+  1 of 11 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  9 лаба.vcxproj -> C:\Users\timam\source\repos\9 лаба\x64\Release\9 лаба.exe
